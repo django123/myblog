@@ -12,6 +12,10 @@ class UsersController < ApplicationController
     end
   end
 
+  def login
+    authenticate params[:email], params[:password]
+  end
+
 
   private
 

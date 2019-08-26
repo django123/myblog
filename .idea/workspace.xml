@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d2090b6-46d1-47d1-9958-d5a3d57355cd" name="Default Changelist" comment="" />
+    <list default="true" id="5d2090b6-46d1-47d1-9958-d5a3d57355cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/controllers/concerns/exception_handler.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/json_web_token.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +78,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Ruby File" />
+        <option value="Ruby Class" />
       </list>
     </option>
   </component>
@@ -87,6 +94,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1PxOfto70Xk7RqKWSQ15BSUSmOK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="oracle&#10;postgresql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -98,6 +108,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\EDOUGA\Desktop\myblog\lib" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,8 +228,16 @@
       <workItem from="1566660208652" duration="2513000" />
       <workItem from="1566803478902" duration="598000" />
       <workItem from="1566812388969" duration="2511000" />
-      <workItem from="1566815185019" duration="1481000" />
+      <workItem from="1566815185019" duration="3734000" />
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1566816688905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566816688905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +255,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
   <component name="masterDetails">
     <states>

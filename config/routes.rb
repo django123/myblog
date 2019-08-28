@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
-  post 'auth/register', to: 'users#register'
-  post 'auth/login', to: 'users#login'
+  resources :posts
+  post 'auth/register' , to: 'users#register'
+  post 'auth/login' , to: 'users#login'
+  get 'edouga' , to: 'users#edouga'
   root 'home#index'
-
 end

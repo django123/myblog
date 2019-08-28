@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  name: MyString
+  pdate: 2019-08-28
+  ptime: 2019-08-28 16:38:28
+  description: MyText
+  province: MyString
+
+two:
+  title: MyString
+  name: MyString
+  pdate: 2019-08-28
+  ptime: 2019-08-28 16:38:28
+  description: MyText
+  province: MyString
